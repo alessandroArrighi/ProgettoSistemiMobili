@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="home_pwd">Passwords</string>
+    <string name="btnCreateServiceDescription">Creazione di un nuovo servizio</string>
+    <string name="addServiceTitle">Nuove Credenziali</string>
+    <string name="addServiceService">Servizio</string>
+    <string name="addServiceUser">Nome Utente</string>
+    <string name="addServicePassword">Password</string>
+    <string name="addServiceButton">Aggiungi Servizio</string>
+    <string name="addServiceButtonDescription">Aggiungi un nuovo servizio</string>
+    <string name="copyPasswordBtnDescription">Copia la password</string>
+    <string name="copyPasswordToast">Password Copiata</string>
+    <string name="addServiceToast">Servizio Aggiunto</string>
+    <string name="modServiceToast">Servizio Modificato</string>
+    <string name="modServiceTitile">Modifica Servizio</string>
+    <string name="baclgroundTitle">Nessuna Utenza Registrata</string>
+</resources>

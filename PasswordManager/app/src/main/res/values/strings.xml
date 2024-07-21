@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="home_pwd">Passwords</string>
+    <string name="btnCreateServiceDescription">Create new service</string>
+    <string name="addServiceTitle">New Credentials</string>
+    <string name="addServiceService">Service</string>
+    <string name="addServiceUser">User</string>
+    <string name="addServicePassword">Password</string>
+    <string name="addServiceButton">Add Service</string>
+    <string name="addServiceButtonDescription">Add a new serivce</string>
+    <string name="copyPasswordBtnDescription">Copy the password</string>
+    <string name="copyPasswordToast">Password Copyed</string>
+    <string name="addServiceToast">Service Added</string>
+    <string name="modServiceToast">Service Updated</string>
+    <string name="modServiceTitile">Update Service</string>
+    <string name="baclgroundTitle">No Credential Found</string>
+</resources>

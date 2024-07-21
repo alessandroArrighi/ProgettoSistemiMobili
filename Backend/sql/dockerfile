@@ -1,0 +1,4 @@
+FROM mysql
+RUN mkdir /opt/db
+WORKDIR /opt/db
+COPY ./creazione_db.sql .
